@@ -13,4 +13,4 @@ There is one TODO: Explicitly there because besides the actual result, the softw
 into account the "release" process and in the TODO i wanted to show that part of what i think important is being able to
 deliver "partial" but self/contained versions of software (at different levels)
 
-Also includes the sql queries (tested in postgres) about some of data tasks. 
+Also includes the sql queries (tested in postgres) about some of data tasks. They are in src/main/resources/Script.sql
